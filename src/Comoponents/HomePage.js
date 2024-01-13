@@ -191,13 +191,9 @@ function HomePage() {
           <div className="container">
             <a href="#" className="logo">
               <img
-<<<<<<< HEAD
                 src="./assets/images/eiko-gold-logo.png"
                 width="160"
-=======
-                src="./assets/images/Eiko 3.png"
-                width="120"
->>>>>>> e2305d0ae7bf0b6095d57f96d057d5002ba97ac3
+
                 height="50"
                 alt="Grilli - Home"
               
